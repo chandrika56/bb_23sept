@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:title="@string/Logout"
+        app:showAsAction="always"/>
+
+
+
+
+
+
+
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/ic_toc_black_24dp"
+        android:title="Types"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/viral"
+                android:title="@string/Viral_videos"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/learn"
+                android:title="@string/Learning_videos"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/solo"
+                android:title="@string/Solo_Beatbox"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/tag"
+                android:title="@string/Tag_Beatbox"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/smoke"
+                android:title="@string/seven_to_smoke"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/loop"
+                android:title="@string/Loopstation_Beatbox"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/crew"
+                android:title="@string/Crew_Beatbox"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/jamming"
+                android:title="@string/Jamming_beatbox"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/studio"
+                android:title="@string/Studio_session"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/beats"
+                android:title="@string/Beats_club"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/all"
+                android:title="@string/All"
+                app:showAsAction="ifRoom" />
+
+        </menu>
+    </item>
+</menu>

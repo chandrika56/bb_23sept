@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Beatbox</string>
+    <string name="login_anonymously">anonymous</string>
+    <string name="login_with_password">Login with Password</string>
+    <string name="login_with_twitter">Twitter</string>
+    <string name="login_with_google">Google sign in</string>
+    <string name="cont">Continue</string>
+    <string name="enter_your_mobile_number">enter your mobile number</string>
+    <string name="may_i_ask_your_phone_number">may i ask your phone number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_verification_code">Enter Verification code</string>
+    <string name="wait_for_the_code_we_sent_you">Wait for the code we sent you</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="one">Profile</string>
+    <string name="two">Search</string>
+    <string name="three">Search</string>
+    <string name="four">Logout</string>
+    <string name="google_maps_key">AIzaSyBkJxbO0zcmOZBYecYM1IyrjtfnpAfRlRM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HION</string>
+    <string name="nav_header_subtitle">Beatbox_hion@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_nav2">Beatbox Choice</string>
+    <string name="title_activity_nav_tab">Beatbox</string>
+    <string name="about">"              "Beat box is an app to increase the widespread of the art! Its established and owned by HION JOBS,BENGALURU.</string>
+    <string name="Fav">Added To Favourites</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="types">Types</string>
+
+
+    <string name="Viral_videos">Viral videos</string>
+    <string name="Learning_videos">Learning videos</string>
+
+    <string name="Solo_Beatbox">Solo Beatbox</string>
+    <string name="Tag_Beatbox">Tag Beatbox</string>
+    <string name="seven_to_smoke">7 to smoke Beatbox</string>
+    <string name="Loopstation_Beatbox">Loopstation Beatbox</string>
+    <string name="Crew_Beatbox"> Crew Beatbox</string>
+    <string name="Jamming_beatbox">Beatbox Jams</string>
+    <string name="Studio_session">Studio session Beatbox</string>
+    <string name="Beats_club">Beatbox Shoutouts</string>
+    <string name="All">All</string>
+    <string name="Logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="new_videos">NEW VIDEOS!</string>
+    <string name="ultimate_beatboxing_app">Ultimate Beatboxing App</string>
+    <string name="technical_issues">Technical issues?</string>
+
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+
+    <string name="label_twitter_login">Firebase + Twitter Login</string>
+    <string name="desc_twitter_login">Use a Twitter Login credential to authenticate with Firebase.</string>
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+
+    <string name="label_passwordless">Passwordless Authentication</string>
+    <string name="desc_passwordless">Use only an email to authenticate with Firebase.</string>
+
+    <string name="label_phone_auth">Phone Number Authentication</string>
+    <string name="desc_phone_auth">Use a phone number to authenticate with Firebase.</string>
+
+    <string name="label_anonymous_auth">Anonymous Authentication</string>
+    <string name="desc_anonymous_auth">Sign in anonymously and then later upgrade to a full Firebase Auth user.</string>
+
+    <string name="label_custom_auth">Custom Authentication</string>
+    <string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with Firebase.</string>
+
+    <string name="label_firebase_ui">FirebaseUI Auth</string>
+    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
+
+    <string name="label_generic_idp">Generic IDP Auth</string>
+    <string name="desc_generic_idp">Use a generic identity provider, like Microsoft or Yahoo, to authenticate with Firebase.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="status_email_not_sent">Send link to your email to get started.</string>
+    <string name="status_email_sent">Link sent, check your email to continue.</string>
+    <string name="status_link_found">Link received, enter email to sign in.</string>
+    <string name="default_web_client_id" translatable="false">201728724005-rnmiflikknmp1cnaisg7ggeavvjui8l7.apps.googleusercontent.com</string>
+
+
+
+</resources>

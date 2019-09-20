@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_solo"
+
+            android:title="Solo" />
+        <item
+            android:id="@+id/nav_tag"
+
+            android:title="TagTeam" />
+        <item
+            android:id="@+id/nav_smoke"
+
+            android:title="7 to Smoke" />
+        <item
+            android:id="@+id/nav_loop"
+
+            android:title="Loop Station" />
+        <item
+            android:id="@+id/nav_crew"
+
+            android:title="Crew" />
+        <item
+            android:id="@+id/nav_Jamming"
+
+            android:title="Jamming" />
+        <item
+            android:id="@+id/nav_studio"
+
+            android:title="Studio Session" />
+        <item
+            android:id="@+id/nav_beats"
+
+            android:title="Beats Club" />
+        <item
+            android:id="@+id/nav_all"
+
+            android:title="ALL" />
+
+    </group>
+
+
+</menu>

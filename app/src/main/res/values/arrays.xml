@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_list_item_array">
+        <item>@string/Viral_videos</item>
+        <item>@string/Learning_videos</item>
+        <item>@string/Solo_Beatbox</item>
+        <item>@string/Tag_Beatbox</item>
+        <item>@string/seven_to_smoke</item>
+        <item>@string/Loopstation_Beatbox</item>
+        <item>@string/Crew_Beatbox</item>
+        <item>@string/Jamming_beatbox</item>
+        <item>@string/Studio_session</item>
+        <item>@string/Beats_club</item>
+        <item>@string/All</item>
+    </string-array>
+
+    <string-array name="spinner_list_item_array_values" translatable="false">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+        <item>ele</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadius="500dp">
+    <solid android:color="#FFA500"
+        android:width="3000dp"
+        />
+    <!--border color and border width-->
+    <stroke
+        android:width="7dp"
+        android:color="#FF4500"
+        android:dashGap="10dp"
+        android:dashWidth="25dp"/>
+    <!--border radius in dp-->
+    <corners android:radius="40dp"
+        android:bottomLeftRadius="1dp"
+        android:bottomRightRadius="1dp"
+        android:topLeftRadius="1dp"
+        android:topRightRadius="1dp"/>
+</shape>

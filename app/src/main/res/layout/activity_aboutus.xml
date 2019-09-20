@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3E424B"
+    tools:context=".Aboutus">
+
+    <Button
+        android:id="@+id/button5"
+        android:background="@drawable/blackbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="ABOUT US"
+        android:textColor="#FFFFFF"
+       />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="318dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="83dp"
+        android:text="                 Beat box is an app to increase the widespread of the art! Its established and owned by HION JOBS,BENGALURU."
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</RelativeLayout>
